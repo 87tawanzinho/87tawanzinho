@@ -22,12 +22,8 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
-  <br/><br/><br/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?87tawanzinho=anuraghazra&hide=contribs,prs
+">
  Portfolio: https://portfolio-v2-liard-delta.vercel.app/
 
 <hr/>

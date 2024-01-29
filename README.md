@@ -25,7 +25,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api?username=87tawanzinho&show_icons=true&theme=dark" />
+  https://github-readme-stats.vercel.app/api?username=87tawanzinho&hide=contribs,prs
   
   <br/><br/><br/>
 </div>

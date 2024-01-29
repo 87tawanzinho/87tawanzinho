@@ -22,7 +22,7 @@
 <br/>
 <hr/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=87tawanzinho&hide=contribs,prs&show=prs_merged,&hide=issues,&hide=stars">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=87tawanzinho&hide=contribs,&show=prs_merged,&hide=issues,&hide=stars">
 
 </div>
  Portfolio: https://portfolio-v2-liard-delta.vercel.app/

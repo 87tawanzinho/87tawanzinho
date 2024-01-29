@@ -22,8 +22,7 @@
 <br/>
 <hr/>
 
-<img src="https://github-readme-stats.vercel.app/api?87tawanzinho=anuraghazra&hide=contribs,prs
-">
+<img src="https://github-readme-stats.vercel.app/api?87tawanzinho=anuraghazra&hide=contribs,prs">
  Portfolio: https://portfolio-v2-liard-delta.vercel.app/
 
 <hr/>

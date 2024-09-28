@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 4 years inside in the development world
  
- 🌱 I’m currently learning  Supabase*
+ 
 
 
  </div>

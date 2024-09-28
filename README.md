@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 4 years inside in the development world
+ 🔭 4 years inside in the world of development
  
  
 

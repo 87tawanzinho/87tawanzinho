@@ -2,7 +2,6 @@
 
 
 
-<h3 align="center">Engenheiro de Software</h3>
 
 <br/>
 

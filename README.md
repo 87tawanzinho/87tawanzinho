@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 🔭 Ainda procurando soluções
+ 🔭
  
  
 
